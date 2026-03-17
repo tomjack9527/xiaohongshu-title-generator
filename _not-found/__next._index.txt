@@ -2,4 +2,4 @@
 2:I[7852,[],""]
 3:I[9514,[],""]
 :HL["/_next/static/css/5e603137061a4251.css","style"]
-0:{"buildId":"bNLMflQ3zs-63Q-v8e4oW","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5e603137061a4251.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","children":[["$","head",null,{"children":["$","link",null,{"rel":"apple-touch-icon","href":"/icon-192.png"}]}],["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"KoU42evskpmpAi5SA5_kX","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5e603137061a4251.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","children":[["$","head",null,{"children":["$","link",null,{"rel":"apple-touch-icon","href":"/icon-192.png"}]}],["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]]}]]}],"loading":null,"isPartial":false}
