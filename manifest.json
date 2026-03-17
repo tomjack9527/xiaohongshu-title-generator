@@ -2,29 +2,25 @@
   "name": "小红书爆款标题生成器",
   "short_name": "标题生成器",
   "description": "AI智能生成小红书爆款标题",
-  "start_url": "/xiaohongshu-title-generator/",
-  "id": "/xiaohongshu-title-generator/",
+  "start_url": "/",
   "display": "standalone",
-  "background_color": "#9333ea",
+  "background_color": "#ffffff",
   "theme_color": "#9333ea",
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/xiaohongshu-title-generator/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/xiaohongshu-title-generator/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
   "categories": ["utilities", "productivity"],
-  "lang": "zh-CN",
-  "screenshots": [],
-  "related_applications": [],
-  "prefer_related_applications": false
+  "lang": "zh-CN"
 }
